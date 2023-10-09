@@ -1,0 +1,69 @@
+﻿#banner{
+    display: none;
+}
+
+.trangchitiet, .book-info{
+    display: flex;
+}
+.book-title, h3 {
+    color: #EF7123;
+}
+
+.book-detail{
+    width: 75%;
+}
+
+.box-container, .book-cover {
+    width: 25%;
+}
+
+
+.author a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.book-info{
+    display:flex;
+}
+
+.book-cover {
+    width: 40%;
+}
+
+#Image1 {
+    text-align: center;
+}
+.book-attributes{
+    width: 60%;
+}
+
+.add_to_cart #btnthem {
+    background: #EF7123;
+    height: 35px;
+}
+
+@media screen and (max-width: 768px) {
+    .book_info {
+        display : grid;
+    }
+
+    .book-cover {
+        max-width: 200px;
+    }
+
+    .book-attributes {
+        width: 45%;
+        margin-left: 50px;
+    }
+
+    .box-container {
+        display: grid;
+        width: 100%;
+    }
+
+    .book-detail {
+        width: 100%;
+    }
+}

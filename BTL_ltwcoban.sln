@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTL_ltwcoban", "BTL_ltwcoban\BTL_ltwcoban.csproj", "{BF851CB3-0858-4357-91B8-62D27310A30A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF851CB3-0858-4357-91B8-62D27310A30A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF851CB3-0858-4357-91B8-62D27310A30A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF851CB3-0858-4357-91B8-62D27310A30A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF851CB3-0858-4357-91B8-62D27310A30A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63ED901F-E05E-4F76-BF25-1356A965AA70}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,354 @@
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\BTL_ltwcoban.dll.config
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\BTL_ltwcoban.dll
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\BTL_ltwcoban.pdb
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\csc.exe
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\csc.exe.config
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\csc.rsp
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\csi.exe
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\csi.exe.config
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\csi.rsp
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\Microsoft.Managed.Core.targets
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\System.AppContext.dll
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\System.Collections.Immutable.dll
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\System.Console.dll
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\System.Globalization.Calendars.dll
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\System.IO.Compression.dll
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\System.IO.FileSystem.dll
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\System.Net.Http.dll
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\System.Net.Sockets.dll
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\System.Reflection.Metadata.dll
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\System.ValueTuple.dll
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\System.Xml.XmlDocument.dll
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\System.Xml.XPath.dll
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\vbc.exe
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\vbc.exe.config
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\vbc.rsp
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\VBCSCompiler.exe
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\roslyn\VBCSCompiler.exe.config
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\obj\Debug\BTL_ltwcoban.csproj.AssemblyReference.cache
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\obj\Debug\BTL_ltwcoban.csproj.CoreCompileInputs.cache
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\obj\Debug\BTL_ltwcoban.csproj.CopyComplete
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\obj\Debug\BTL_ltwcoban.dll
+D:\html\Code new\BTL_ltwcoban\BTL_ltwcoban\obj\Debug\BTL_ltwcoban.pdb
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\BTL_ltwcoban.dll.config
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\BTL_ltwcoban.dll
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\BTL_ltwcoban.pdb
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\csc.exe
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\csc.exe.config
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\csc.rsp
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\csi.exe
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\csi.exe.config
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\csi.rsp
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.AppContext.dll
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Console.dll
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.IO.Compression.dll
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Net.Http.dll
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.ValueTuple.dll
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\vbc.exe
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\vbc.exe.config
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\vbc.rsp
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\VBCSCompiler.exe
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\obj\Debug\BTL_ltwcoban.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\obj\Debug\BTL_ltwcoban.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\obj\Debug\BTL_ltwcoban.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\obj\Debug\BTL_ltwcoban.dll
+C:\Users\ADMIN\source\repos\BTL_LTWCoBan\BTL_ltwcoban\obj\Debug\BTL_ltwcoban.pdb
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\BTL_ltwcoban.dll.config
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\BTL_ltwcoban.dll
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\BTL_ltwcoban.pdb
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\csi.exe.config
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Console.dll
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\obj\Debug\BTL_ltwcoban.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\obj\Debug\BTL_ltwcoban.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\obj\Debug\BTL_ltwcoban.csproj.CopyComplete
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\obj\Debug\BTL_ltwcoban.dll
+C:\Users\Admin\Downloads\BTL_LTWCoBan-20220314T150601Z-001\BTL_LTWCoBan\BTL_ltwcoban\obj\Debug\BTL_ltwcoban.pdb
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\BTL_ltwcoban.dll.config
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\BTL_ltwcoban.dll
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\BTL_ltwcoban.pdb
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\csc.exe
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\csc.exe.config
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\csc.rsp
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\csi.exe
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\csi.exe.config
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\csi.rsp
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\Microsoft.Managed.Core.targets
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.AppContext.dll
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.Collections.Immutable.dll
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.Console.dll
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.Globalization.Calendars.dll
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.IO.Compression.dll
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.IO.FileSystem.dll
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.Net.Http.dll
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.Net.Sockets.dll
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.Reflection.Metadata.dll
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.ValueTuple.dll
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.Xml.XmlDocument.dll
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.Xml.XPath.dll
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\vbc.exe
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\vbc.exe.config
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\vbc.rsp
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\VBCSCompiler.exe
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\VBCSCompiler.exe.config
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\obj\Debug\BTL_ltwcoban.csproj.AssemblyReference.cache
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\obj\Debug\BTL_ltwcoban.csproj.CoreCompileInputs.cache
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\obj\Debug\BTL_ltwcoban.csproj.CopyComplete
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\obj\Debug\BTL_ltwcoban.dll
+E:\TRUONGHOC\Nam_2_2021_2022\Ki_2\lap_trinh_web\z_btl_thamKhao\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\obj\Debug\BTL_ltwcoban.pdb
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\BTL_ltwcoban.dll.config
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\BTL_ltwcoban.dll
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\BTL_ltwcoban.pdb
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\csc.exe
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\csc.exe.config
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\csc.rsp
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\csi.exe
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\csi.exe.config
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\csi.rsp
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.Console.dll
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.Net.Http.dll
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\vbc.exe
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\vbc.rsp
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\obj\Debug\BTL_ltwcoban.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\obj\Debug\BTL_ltwcoban.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\obj\Debug\BTL_ltwcoban.csproj.CopyComplete
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\obj\Debug\BTL_ltwcoban.dll
+C:\Users\DELL\Downloads\BTL_LTWCoBan_NhomLuong\BTL_ltwcoban\obj\Debug\BTL_ltwcoban.pdb
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\BTL_ltwcoban.dll.config
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\BTL_ltwcoban.dll
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\BTL_ltwcoban.pdb
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\csc.exe
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\csc.exe.config
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\csc.rsp
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\csi.exe
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\csi.exe.config
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\csi.rsp
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.AppContext.dll
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Collections.Immutable.dll
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Console.dll
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Globalization.Calendars.dll
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.IO.Compression.dll
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.IO.FileSystem.dll
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Net.Http.dll
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Net.Sockets.dll
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Reflection.Metadata.dll
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.ValueTuple.dll
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Xml.XPath.dll
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\vbc.exe
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\vbc.exe.config
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\vbc.rsp
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\VBCSCompiler.exe
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\roslyn\VBCSCompiler.exe.config
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\obj\Debug\BTL_ltwcoban.csproj.AssemblyReference.cache
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\obj\Debug\BTL_ltwcoban.csproj.CoreCompileInputs.cache
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\obj\Debug\BTL_ltwcoban.csproj.CopyComplete
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\obj\Debug\BTL_ltwcoban.dll
+D:\Hoctap\Ltweb\BTL_LTWCoBan\BTL_ltwcoban\obj\Debug\BTL_ltwcoban.pdb
