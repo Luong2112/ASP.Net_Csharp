@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EAE2417D-440B-47B7-930F-FF5BB8170694}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>BTL</RootNamespace>
+    <AssemblyName>BTL</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxShockwaveFlashObjects, Version=1.0.0.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.ConfigurationManager, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Configuration.ConfigurationManager.6.0.0\lib\net461\System.Configuration.ConfigurationManager.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Security.AccessControl, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.AccessControl.6.0.0\lib\net461\System.Security.AccessControl.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Permissions, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Permissions.6.0.0\lib\net461\System.Security.Permissions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Principal.Windows, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Principal.Windows.5.0.0\lib\net461\System.Security.Principal.Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BC_benhan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BC_benhan.Designer.cs">
+      <DependentUpon>BC_benhan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptBN_Ba.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptBN_Ba.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="BC_benhnhan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BC_benhnhan.Designer.cs">
+      <DependentUpon>BC_benhnhan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DangNhap.Designer.cs">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dsBA.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsBA.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsDonThuoc.cs">
+      <DependentUpon>dsDonThuoc.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsDonThuoc.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsDonThuoc.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLBV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLBV.Designer.cs">
+      <DependentUpon>QLBV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="rptBN_DT.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptBN_DT.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="tblBacSi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tblBacSi.Designer.cs">
+      <DependentUpon>tblBacSi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tblBenh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tblBenh.Designer.cs">
+      <DependentUpon>tblBenh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tblBenhAn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tblBenhAn.Designer.cs">
+      <DependentUpon>tblBenhAn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tblBenhNhan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tblBenhNhan.Designer.cs">
+      <DependentUpon>tblBenhNhan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tblChiTietBenhAn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tblChiTietBenhAn.Designer.cs">
+      <DependentUpon>tblChiTietBenhAn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tblChiTietDonThuoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tblChiTietDonThuoc.Designer.cs">
+      <DependentUpon>tblChiTietDonThuoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tblDonThuoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tblDonThuoc.Designer.cs">
+      <DependentUpon>tblDonThuoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tblPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tblPhong.Designer.cs">
+      <DependentUpon>tblPhong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tblThuoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tblThuoc.Designer.cs">
+      <DependentUpon>tblThuoc.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="BC_benhan.resx">
+      <DependentUpon>BC_benhan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptBN_Ba.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptBN_Ba.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BC_benhnhan.resx">
+      <DependentUpon>BC_benhnhan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DangNhap.resx">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLBV.resx">
+      <DependentUpon>QLBV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="rptBN_DT.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptBN_DT.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tblBacSi.resx">
+      <DependentUpon>tblBacSi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tblBenh.resx">
+      <DependentUpon>tblBenh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tblBenhAn.resx">
+      <DependentUpon>tblBenhAn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tblBenhNhan.resx">
+      <DependentUpon>tblBenhNhan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tblChiTietBenhAn.resx">
+      <DependentUpon>tblChiTietBenhAn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tblChiTietDonThuoc.resx">
+      <DependentUpon>tblChiTietDonThuoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tblDonThuoc.resx">
+      <DependentUpon>tblDonThuoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tblPhong.resx">
+      <DependentUpon>tblPhong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tblThuoc.resx">
+      <DependentUpon>tblThuoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="dsBA.xsc">
+      <DependentUpon>dsBA.xsd</DependentUpon>
+    </None>
+    <None Include="dsBA.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsBA.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dsBA.xss">
+      <DependentUpon>dsBA.xsd</DependentUpon>
+    </None>
+    <None Include="dsDonThuoc.xsc">
+      <DependentUpon>dsDonThuoc.xsd</DependentUpon>
+    </None>
+    <None Include="dsDonThuoc.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsDonThuoc.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dsDonThuoc.xss">
+      <DependentUpon>dsDonThuoc.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
